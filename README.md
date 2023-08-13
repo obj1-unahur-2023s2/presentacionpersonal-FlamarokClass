@@ -8,7 +8,7 @@ Buenas! mi nombre es **Franco Leonel Anderson Rojas**, alias **Flamarok** , teng
 Flamarok? un simple apodo que me hice mediante los videojuegos y como nombre de usuario es facil de recordar.
 
 Comencé a cursar exactamente el año que comenzo la pandemia, tan así que el dia que exponia el tp de CPU se declaró el inicio de la cuarentena.
-(./assets/facepalm.jpg)
+![Meme](./assets/facepalm.jpg)
 
 Desde los 18 años trabajo en los negocios que tenemos con mi familia, algo asi como una cadena de Kioscos, pero proximamente comenzamos con mi hermano la apertura de una inmobiliaria.
 
