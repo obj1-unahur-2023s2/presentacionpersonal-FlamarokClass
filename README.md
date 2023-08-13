@@ -1,38 +1,41 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programación con objetos I
+## Bienvenidos a
+# Mi presentacion!!
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Buenas! mi nombre es **Franco Leonel Anderson Rojas**, alias **Flamarok** , tengo 25 años, y soy estudiante de la carrera de *Tecnicatura en Programación*.
 
-```wollok
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Flamarok? un simple apodo que me hice mediante los videojuegos y como nombre de usuario es facil de recordar.
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1Ik6coqFm2lr2m6EFBGo3Ul4Bi4RPhrrtMQLbK3WcbIQ/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+Comencé a cursar exactamente el año que comenzo la pandemia, tan así que el dia que exponia el tp de CPU se declaró el inicio de la cuarentena.
+(./assets/facepalm.jpg)
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-* [Guía Rápida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+Desde los 18 años trabajo en los negocios que tenemos con mi familia, algo asi como una cadena de Kioscos, pero proximamente comenzamos con mi hermano la apertura de una inmobiliaria.
 
-### Presentacion Personal
+El objetivo? Comenzar en el mundo IT, no solo desde el punto de vista laboral, sino tambien ampliando mis contactos y amistades que compartan este mismo interes por la programación y la informática.
 
-Me llamo ...
+También el objetivo es seguir adquiriendo conocimientos. Como por ejemplo un curso de Desarrollo Web que realicé.
 
-Me gusta ...
+### ¿Y cual es el fin de estos objetivos?
 
-Me dedico a / Trabajo de ...
+Mi sueño es lograr vivir en Irlanda, lugar del que soy un apasionado en muchos aspectos, lograr asentarme, desarrollarme y crecer.
 
-Les dejo una imagen mía 
+Y que mejor manera de hacer esto que con la profesión que me gusta, tal vez no llegue a ser ni la mitad de bueno que mis compañeros, pero que lo disfruto haciendolo, eso lo puedo asegurar.
 
-![subir archivo de imagen](imagen.jpg)
+![Franco Anderson](./assets/Franco.png)
+
+
+
+
+## Mis gustos
+
+- Como ya mencioné soy fan de Irlanda, conozco de su música, su historia, algunas costumbres. Por esto mismo practico Fútbol Gaélico, es bastante interesante y muy divertido.
+
+
+- Me encanta los videojuegos, hace poco me surgió la idea de realizar la Tecnicatura en Programación de VideoJuegos.
+
+
+- Soy un gran amante de la música, sobre todo el rock clásico, el metal, pero realmente mis gustos musicales son muy amplios.
+
+
+- Toco la bateria y tengo algo de práctica tocando bajo y guitarra, un hobbie y una herramienta para estar más cerca de la música que uno escucha y de los artistas que uno admira.
